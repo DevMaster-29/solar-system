@@ -65,11 +65,6 @@ A stunning **3D Solar System Simulator** built using [Three.js](https://threejs.
 
 ---
 
-## 📜 License  
-This project is open-source under the MIT License. Feel free to modify and share!  
-
----
-
 ## 📬 Contributing  
 Want to improve this project? Follow these steps:
 
